@@ -5,6 +5,8 @@ I enjoy building **clean and reliable systems**.
 I write **tests** and care about **code quality and reliability**.  
 I work with **Spring, REST APIs, and databases**, and I’m always open to **new challenges and technical approaches**.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton3413&layout=compact)
+
 ## 🧰 Tech Stack
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-D14836?style=flat-square&logo=java&logoColor=white)
