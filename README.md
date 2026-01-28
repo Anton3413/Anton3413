@@ -1,11 +1,11 @@
-<h2>👋 Hi there, I'm Anton</h2>
-<h3> Java backend developer from Kyiv, Ukraine — 3+ years of hands-on experience </h3>
+### 👋 Hi there, I'm Anton
+### Java backend developer from Kyiv, Ukraine — 3+ years of hands-on experience
 
 I enjoy building **clean and reliable systems**.  
 I write **tests** and care about **code quality and reliability**.  
 I work with **Spring, REST APIs, and databases**, and I’m always open to **new challenges and technical approaches**.
 
-<h2>🧰 Tech Stack</h2>
+## 🧰 Tech Stack
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-D14836?style=flat-square&logo=java&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-4DB6AC?style=flat-square&logo=rest-api&logoColor=white)
@@ -33,14 +33,14 @@ I work with **Spring, REST APIs, and databases**, and I’m always open to **new
 ![Bash](https://img.shields.io/badge/Bash-3E474A?style=flat-square&logo=gnubash&logoColor=white)
 
 
-<h2>🚀 Projects</h2>
+## 🚀 Projects
 [![Reverso Java API](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Reverso-Java-API&theme=default)](https://github.com/Anton3413/Reverso-Java-API)
 [![Telegram Language Bot](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Telegram-Language-Bot&theme=default)](https://github.com/Anton3413/Telegram-Language-Bot)
 [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Task-Manager&theme=default)](https://github.com/Anton3413/Task-Manager)
 
 
 
-<h2>📫 Where to find me</h2>
+## 📫 Where to find me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anton3413)
 [![Email](https://img.shields.io/badge/Email-D14836?style=fflat-square&logo=gmail&logoColor=white)](mailto:bondar8524567913@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bondar852)
