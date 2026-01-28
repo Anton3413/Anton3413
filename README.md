@@ -32,7 +32,6 @@ I work with **Spring, REST APIs, and databases**, and I’m always open to **new
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1D63ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-3E474A?style=flat-square&logo=gnubash&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -41,7 +40,7 @@ I work with **Spring, REST APIs, and databases**, and I’m always open to **new
 [![Telegram Language Bot](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Telegram-Language-Bot&theme=default)](https://github.com/Anton3413/Telegram-Language-Bot)
 [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Task-Manager&theme=default)](https://github.com/Anton3413/Task-Manager)
 
----
+
 
 ## 📫 Where to find me
 
