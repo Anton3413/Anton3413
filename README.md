@@ -4,8 +4,7 @@
 I enjoy building **clean and reliable systems**.  
 I write **tests** and care about **code quality and reliability**.  
 I work with **Spring, REST APIs, and databases**, and I’m always open to **new challenges and technical approaches**.
-
-## 🧰 Tech Stack
+<h2 style="border-bottom: none;">🧰 Tech Stack</h2>
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-D14836?style=flat-square&logo=java&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-4DB6AC?style=flat-square&logo=rest-api&logoColor=white)
