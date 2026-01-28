@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anton
+## 👋 Hi there, I'm Anton
 ### Java backend developer from Kyiv, Ukraine — 3+ years of hands-on experience
 
 I enjoy building **clean and reliable systems**.  
@@ -47,4 +47,4 @@ I work with **Spring, REST APIs, and databases**, and I’m always open to **new
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anton3413)
 [![Email](https://img.shields.io/badge/Email-D14836?style=fflat-square&logo=gmail&logoColor=white)](mailto:bondar8524567913@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bondar852)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonbondar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bondar-java-ee/)
