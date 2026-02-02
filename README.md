@@ -38,8 +38,6 @@ I work with **Spring, REST APIs, and databases**, and I’m always open to **new
 ## 🚀 Projects
 [![Reverso Java API](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Reverso-Java-API&theme=default)](https://github.com/Anton3413/Reverso-Java-API)
 [![Telegram Language Bot](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Telegram-Language-Bot&theme=default)](https://github.com/Anton3413/Telegram-Language-Bot)
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Anton3413&repo=Task-Manager&theme=default)](https://github.com/Anton3413/Task-Manager)
-
 
 
 ## 📫 Where to find me
